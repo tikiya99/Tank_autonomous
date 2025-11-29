@@ -1,0 +1,44 @@
+[1.013s] Invoking command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/src/rover_description -DCMAKE_INSTALL_PREFIX=/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description
+[1.348s] -- The C compiler identification is GNU 11.4.0
+[1.603s] -- The CXX compiler identification is GNU 11.4.0
+[1.632s] -- Detecting C compiler ABI info
+[1.924s] -- Detecting C compiler ABI info - done
+[1.940s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.940s] -- Detecting C compile features
+[1.943s] -- Detecting C compile features - done
+[1.952s] -- Detecting CXX compiler ABI info
+[2.287s] -- Detecting CXX compiler ABI info - done
+[2.309s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.310s] -- Detecting CXX compile features
+[2.311s] -- Detecting CXX compile features - done
+[2.337s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.029s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.481s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.843s] -- Added test 'lint_cmake' to check CMake code style
+[3.849s] -- Added test 'xmllint' to check XML markup files
+[3.856s] -- Configuring done
+[3.867s] -- Generating done
+[3.873s] -- Build files have been written to: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description
+[3.901s] Invoked command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description' returned '0': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/src/rover_description -DCMAKE_INSTALL_PREFIX=/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description
+[3.908s] Invoking command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake --build /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description -- -j12 -l12
+[4.094s] Invoked command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description' returned '0': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake --build /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description -- -j12 -l12
+[4.146s] Invoking command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake --install /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description
+[4.177s] -- Install configuration: ""
+[4.178s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/urdf
+[4.179s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/urdf/rover.urdf
+[4.179s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/ament_index/resource_index/package_run_dependencies/rover_description
+[4.180s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/ament_index/resource_index/parent_prefix_path/rover_description
+[4.180s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/environment/ament_prefix_path.sh
+[4.180s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/environment/ament_prefix_path.dsv
+[4.181s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/environment/path.sh
+[4.181s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/environment/path.dsv
+[4.181s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/local_setup.bash
+[4.182s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/local_setup.sh
+[4.182s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/local_setup.zsh
+[4.182s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/local_setup.dsv
+[4.182s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/package.dsv
+[4.182s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/ament_index/resource_index/packages/rover_description
+[4.183s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/cmake/rover_descriptionConfig.cmake
+[4.183s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/cmake/rover_descriptionConfig-version.cmake
+[4.184s] -- Installing: /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_description/share/rover_description/package.xml
+[4.196s] Invoked command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description' returned '0': CMAKE_PREFIX_PATH=/home/thasinduwickrama/ros2_ws/install/servo_control:/opt/ros/humble /usr/bin/cmake --install /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_description

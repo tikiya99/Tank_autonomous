@@ -1,0 +1,33 @@
+[3.948s] Invoking command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/src/rover_navigation': PYTHONPATH=/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_navigation build --build-base /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build install --record /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/install.log --single-version-externally-managed install_data
+[4.711s] running egg_info
+[4.713s] creating ../../build/rover_navigation/rover_navigation.egg-info
+[4.714s] writing ../../build/rover_navigation/rover_navigation.egg-info/PKG-INFO
+[4.715s] writing dependency_links to ../../build/rover_navigation/rover_navigation.egg-info/dependency_links.txt
+[4.715s] writing entry points to ../../build/rover_navigation/rover_navigation.egg-info/entry_points.txt
+[4.716s] writing requirements to ../../build/rover_navigation/rover_navigation.egg-info/requires.txt
+[4.717s] writing top-level names to ../../build/rover_navigation/rover_navigation.egg-info/top_level.txt
+[4.718s] writing manifest file '../../build/rover_navigation/rover_navigation.egg-info/SOURCES.txt'
+[4.725s] reading manifest file '../../build/rover_navigation/rover_navigation.egg-info/SOURCES.txt'
+[4.735s] writing manifest file '../../build/rover_navigation/rover_navigation.egg-info/SOURCES.txt'
+[4.736s] running build
+[4.736s] running build_py
+[4.736s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build
+[4.736s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build/lib
+[4.736s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build/lib/rover_navigation
+[4.737s] copying rover_navigation/__init__.py -> /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build/lib/rover_navigation
+[4.737s] running install
+[4.738s] running install_lib
+[4.743s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages/rover_navigation
+[4.743s] copying /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build/lib/rover_navigation/__init__.py -> /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages/rover_navigation
+[4.744s] byte-compiling /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages/rover_navigation/__init__.py to __init__.cpython-310.pyc
+[4.746s] running install_data
+[4.747s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/share/ament_index
+[4.748s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/share/ament_index/resource_index
+[4.748s] creating /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/share/ament_index/resource_index/packages
+[4.748s] copying resource/rover_navigation -> /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/share/ament_index/resource_index/packages
+[4.748s] copying package.xml -> /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/share/rover_navigation
+[4.748s] running install_egg_info
+[4.755s] Copying ../../build/rover_navigation/rover_navigation.egg-info to /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages/rover_navigation-0.0.0-py3.10.egg-info
+[4.759s] running install_scripts
+[4.829s] writing list of installed files to '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/install.log'
+[5.110s] Invoked command in '/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/src/rover_navigation' returned '0': PYTHONPATH=/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/install/rover_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_navigation build --build-base /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/build install --record /home/thasinduwickrama/Documents/PlatformIO/Projects/RoverMini/ros2_ws/build/rover_navigation/install.log --single-version-externally-managed install_data
