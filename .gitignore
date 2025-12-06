@@ -1,0 +1,12 @@
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+libs/ORB_SLAM3/build/
+libs/ORB_SLAM3/Thirdparty/DBoW2/build/
+libs/ORB_SLAM3/Thirdparty/g2o/build/
+libs/ORB_SLAM3/Thirdparty/Sophus/build/
+libs/ORB_SLAM3/Vocabulary/ORBvoc.txt
+*.pyc
+__pycache__/
+.vscode/
+.pio/

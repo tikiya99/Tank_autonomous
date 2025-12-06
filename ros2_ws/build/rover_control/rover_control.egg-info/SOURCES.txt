@@ -13,6 +13,11 @@ rover_control/__init__.py
 rover_control/motor_test_node.py
 rover_control/serial_bridge.py
 rover_control/teleop_keyboard.py
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
+rover_control/test_serial.py
+rover_control.egg-info/PKG-INFO
+rover_control.egg-info/SOURCES.txt
+rover_control.egg-info/dependency_links.txt
+rover_control.egg-info/entry_points.txt
+rover_control.egg-info/requires.txt
+rover_control.egg-info/top_level.txt
+rover_control.egg-info/zip-safe

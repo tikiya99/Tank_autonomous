@@ -16,6 +16,8 @@ setup(
             'launch/navigation.launch.py',
             'launch/slam.launch.py',
             'launch/teleop.launch.py',
+            'launch/orbslam3_mono.launch.py',
+            'launch/slam_navigation.launch.py',
         ]),
     ],
     install_requires=['setuptools'],
