@@ -319,7 +319,7 @@ To add new ROS2 nodes:
 
 ## License
 
-MIT License (or your preferred license)
+MIT License 
 
 ## Contributors
 
